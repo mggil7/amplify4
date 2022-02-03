@@ -1,0 +1,12 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "pets2022",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "E:\\00000000-AWS\\amplify4\\amplify4\\amplify\\backend\\api\\pets2022\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "AMAZON_COGNITO_USER_POOLS",
+      "cognitoUserPoolId": "authpets202242f96ae3"
+    }
+  }
+}
